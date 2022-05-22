@@ -1,6 +1,6 @@
 {
-  "scope": "http://currency-convertor-app.static",
-  "start_url": "http://currency-convertor-app.static",
+  "scope": "currency-convertor-app.static",
+  "start_url": "currency-convertor-app.static",
   "name": "currency-convertor-app.static",
   "short_name": "static",
   "author": "Alexander Makhov",
