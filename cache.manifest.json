@@ -1,8 +1,8 @@
 {
-  "scope": "http://alexander-makhov.github.io/currency-convertor-app.static",
-  "start_url": "http://alexander-makhov.github.io/currency-convertor-app.static/",
-  "name": "alexander-makhov.github.io/currency-convertor-app.static",
-  "short_name": "github",
+  "scope": "http://currency-convertor-app.static",
+  "start_url": "http://currency-convertor-app.static/",
+  "name": "currency-convertor-app.static",
+  "short_name": "static",
   "author": "Alexander Makhov",
   "description": "Stack technology - Wordpress, Webpack, HTML5/CSS3/SCSS, Javascript, ES6 Modules, Ajax, Php, MySql",
   "developer": {
